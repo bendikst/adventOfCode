@@ -1,0 +1,14 @@
+/Users/bendikstandal/src/adventofcode/2023/2/obj/Debug/net8.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bendikstandal/src/adventofcode/2023/2/obj/Debug/net8.0/2.AssemblyInfoInputs.cache
+/Users/bendikstandal/src/adventofcode/2023/2/obj/Debug/net8.0/2.AssemblyInfo.cs
+/Users/bendikstandal/src/adventofcode/2023/2/obj/Debug/net8.0/2.csproj.CoreCompileInputs.cache
+/Users/bendikstandal/src/adventofcode/2023/2/bin/Debug/net8.0/2
+/Users/bendikstandal/src/adventofcode/2023/2/bin/Debug/net8.0/2.deps.json
+/Users/bendikstandal/src/adventofcode/2023/2/bin/Debug/net8.0/2.runtimeconfig.json
+/Users/bendikstandal/src/adventofcode/2023/2/bin/Debug/net8.0/2.dll
+/Users/bendikstandal/src/adventofcode/2023/2/bin/Debug/net8.0/2.pdb
+/Users/bendikstandal/src/adventofcode/2023/2/obj/Debug/net8.0/2.dll
+/Users/bendikstandal/src/adventofcode/2023/2/obj/Debug/net8.0/refint/2.dll
+/Users/bendikstandal/src/adventofcode/2023/2/obj/Debug/net8.0/2.pdb
+/Users/bendikstandal/src/adventofcode/2023/2/obj/Debug/net8.0/2.genruntimeconfig.cache
+/Users/bendikstandal/src/adventofcode/2023/2/obj/Debug/net8.0/ref/2.dll
