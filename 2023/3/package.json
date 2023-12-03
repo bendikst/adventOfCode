@@ -1,0 +1,17 @@
+{
+  "name": "3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "console": "tsc src/getInput.ts && mv src/getInput.js src/getInput.cjs && node src/getInput.cjs"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.2",
+    "typescript": "^5.3.2",
+    "vite": "^5.0.0"
+  }
+}
